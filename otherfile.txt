@@ -1,1 +1,2 @@
 otherfile - local repository NatTestRepository
+testing msg2
